@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySpotifyApp</string>
+    <string name="action_settings">Settings</string>
+</resources>
